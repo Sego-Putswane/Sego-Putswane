@@ -2,7 +2,7 @@
 🔭 I'm currently working on efficient coding practices.<br>👯‍♀️ I'm looking to collaborate on tackling complex problems.<br>🫱🏽‍🫲🏽 I'm looking for help with improving code readability, scalability and maintainability.<br>🌱 I'm currently learning OOP and algorithms.<br>💬 You can ask me about core Python concepts and fundamentals.<br>⚡ Fun fact about me is that I am a professional singer. <br>
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ego_putswane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LesegoPutswane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:putswanelesego96@gmail.com) 
 
 # 💻 Tech Stack:
