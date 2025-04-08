@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on efficient coding practices.<br>👯‍♀️ I'm looking to collaborate on tackling complex problems.<br>🫱🏽‍🫲🏽 I'm looking for help with improving code readability, scalability and maintainability.<br>🌱 I'm currently learning OOP and algorithms.<br>💬 You can ask me about core Python concepts and fundamentals.<br>⚡ Fun fact about me is that I am a professional singer.<br>
+🔭 I'm currently working on efficient coding practices.<br>👯‍♀️ I'm looking to collaborate on tackling complex problems.<br>🫱🏽‍🫲🏽 I'm looking for help with improving code readability, scalability and maintainability.<br>🌱 I'm currently learning OOP and algorithms.<br>💬 You can ask me about core Python concepts and fundamentals.<br>⚡ Fun fact about me is that I am a professional singer. <br>
 
 
 ## 🌐 Socials:
